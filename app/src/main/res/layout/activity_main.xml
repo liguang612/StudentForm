@@ -127,7 +127,7 @@
         android:text="Huyện/Quận"
         android:textColor="@color/black" />
     <Spinner
-        android:id="@+id/sp_district"
+        android:id="@+id/spn_district"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="6dp" />
@@ -180,7 +180,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="Đồng ý cung cấp thông tin" />
+        android:text="Đồng ý với các Điều khoản" />
 
     <TextView
         android:id="@+id/tv_notification"
